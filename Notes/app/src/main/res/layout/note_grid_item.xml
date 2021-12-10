@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="100dp"
+    android:layout_margin="10dp"
+    android:background="@color/colorItem"
+    android:gravity="center_horizontal">
+
+
+    <TextView
+        android:id="@+id/textViewNoteGrid"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:gravity="center|top"
+        android:lines="2"
+        android:minWidth="100dp"
+        android:maxLines="2"
+        android:textColor="@color/colorListItemPrimaryText"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textViewTagsGrid"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewNoteGrid"
+        android:layout_alignStart="@+id/textViewNoteGrid"
+        android:layout_alignLeft="@+id/textViewNoteGrid"
+        android:layout_alignEnd="@+id/textViewNoteGrid"
+        android:layout_alignRight="@+id/textViewNoteGrid"
+        android:gravity="center|top"
+        android:singleLine="false"
+        android:text=""
+        android:textStyle="italic"
+        android:textColor="@color/colorListItemSecondaryText"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewDateTimeGrid"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewTagsGrid"
+        android:layout_alignStart="@+id/textViewTagsGrid"
+        android:layout_alignLeft="@+id/textViewTagsGrid"
+        android:layout_alignEnd="@+id/textViewTagsGrid"
+        android:layout_alignRight="@+id/textViewTagsGrid"
+        android:gravity="center|top"
+        android:lines="2"
+        android:textStyle="italic"
+        android:singleLine="false"
+        android:textColor="@color/colorListItemSecondaryText"
+        android:textSize="14sp" />
+
+
+</RelativeLayout>

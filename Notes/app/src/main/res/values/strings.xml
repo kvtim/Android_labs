@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="all_deleted">All notes deleted</string>
+    <string name="are_you_sure_delete_all_notes">Do you want to delete all notes?</string>
+    <string name="edittext_hint_note_text">Text</string>
+    <string name="button_text_new_note">New Note</string>
+    <string name="action_delete">Delete</string>
+    <string name="note">Note</string>
+    <string name="edittext_hint_note_tags">Enter tags via ,</string>
+    <string name="edittext_hint_note_title">Title</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="delete_note">Delete note</string>
+    <string name="are_you_sure_delete_note">Do you want to delete the note?.</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_by_title">Sort by title</string>
+    <string name="tags_search_hint">Search by tags</string>
+</resources>
