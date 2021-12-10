@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/layoutColor"
+    android:orientation="vertical"
+    android:textSize="@dimen/text_normal">
+
+    <FrameLayout
+        android:id="@+id/settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/PreferencesTheme"/>
+
+    <Button
+        android:id="@+id/clearAppDataB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/clear_all"
+        android:layout_margin="50dp"/>
+</LinearLayout>

@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory>
+
+        <SwitchPreferenceCompat
+            app:key="theme"
+            app:summaryOff="@string/theme_light"
+            app:summaryOn="@string/theme_dark"
+            app:title="@string/theme_title"/>
+
+        <ListPreference
+            app:defaultValue="sys_def"
+            app:entries="@array/lang_entries"
+            app:entryValues="@array/lang_values"
+            app:key="language"
+            app:title="@string/lang_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="sys_def"
+            app:entries="@array/font_size_entries"
+            app:entryValues="@array/font_size_values"
+            app:key="fontSize"
+            app:title="@string/font_size_title"
+            app:useSimpleSummaryProvider="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

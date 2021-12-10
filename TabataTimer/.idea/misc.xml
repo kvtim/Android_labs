@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/blue_gradient.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/custom_rectangle_green_cr30.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/green_gradient.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_add_24px.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_baseline_navigate_before.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_baseline_navigate_next.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_pause_24px.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_play_arrow_24px.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_remove_24px.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_replay_24px.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_stop_24px.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/drawable/ic_timer.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/font/montserrat.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/activity_entry.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/activity_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/activity_timer.xml" value="0.25" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/activity_workout.xml" value="0.1" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/content_timer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/mylayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/layout/settings_activity.xml" value="0.19010416666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2111111111111111" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/mipmap-anydpi-v26/ic_timer.xml" value="0.2203125" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/xml/mylayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/xml/preferences.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ira/PPO1/app/src/main/res/xml/root_preferences.xml" value="0.33" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/blue_gradient.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/custom_rectangle_green_cr30.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/green_gradient.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_add_24px.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_baseline_navigate_before.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_baseline_navigate_next.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_pause.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_pause_24px.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_play_arrow.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_play_arrow_24px.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_remove_24px.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_replay_24px.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_stop.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_stop_24px.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/ic_timer.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/drawable/pink_gradient.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/font/montserrat.xml" value="0.20989583333333334" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/layout/activity_entry.xml" value="0.10144927536231885" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/layout/activity_timer.xml" value="0.16666666666666666" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/layout/activity_workout.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/layout/settings_activity.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/mipmap-anydpi-v26/ic_timer.xml" value="0.19583333333333333" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/mipmap-anydpi-v26/ic_timer_round.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/tabata_timer/app/src/main/res/xml/root_preferences.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

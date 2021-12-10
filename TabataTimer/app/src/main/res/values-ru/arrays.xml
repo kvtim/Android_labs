@@ -1,0 +1,14 @@
+<resources>
+
+    <string-array name="lang_entries">
+        <item>Английский</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="font_size_entries">
+        <item>мелкий</item>
+        <item>нормальный</item>
+        <item>большой</item>
+    </string-array>
+
+</resources>

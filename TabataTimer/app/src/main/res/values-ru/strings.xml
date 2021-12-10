@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Табата таймер</string>
+    <string name="title_activity_timer">TimerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="sets">Сеты</string>
+    <string name="upper_set">СЕТ</string>
+    <string name="upper_work_it">РАБОТА</string>
+    <string name="upper_get_ready">ПОДГОТОВКА</string>
+    <string name="upper_rest_now">ОТДЫХ</string>
+    <string name="upper_cool_down">ОСТЫТЬ</string>
+    <string name="work_interval">Интервал работы</string>
+    <string name="rest_interval">Интервал отдыха</string>
+    <string name="warm_up_interval">Интервал подготовки</string>
+    <string name="cool_down_interval">Интервал остывания</string>
+    <string name="upper_start">СТАРТ</string>
+    <string name="upper_done">ГОТОВО!</string>
+    <string name="desc_minus">минус</string>
+    <string name="desc_plus">плюс</string>
+    <string name="desc_pause_play">пауза или заново</string>
+    <string name="desc_replay">заново</string>
+    <string name="desc_stop">стоп</string>
+    <string name="desc_sound_off_on">музыка вкл или выкл</string>
+    <string name="time">00:00</string>
+    <string name="set_number">0</string>
+    <string name="ini_time">00:06</string>
+    <string name="upper_phases">ФАЗЫ</string>
+    <string name="title">Название</string>
+    <string name="upper_save">СОХРАНИТЬ</string>
+    <string name="upper_delete">УДАЛИТЬ</string>
+    <string name="upper_create_new">СОЗДАТЬ</string>
+
+    <string name="msg_saved">Тренировка была сохранена успешно</string>
+    <string name="msg_not_saved">Тренировка не была сохранена. Все поля должны быть заполнены</string>
+    <string name="msg_title_already_exist">Тренировка с таким названием уже существует</string>
+    <string name="msg_deleted">Тренировка была удалена успешно</string>
+
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="theme_title">Тема</string>
+    <string name="theme_dark">темная</string>
+    <string name="theme_light">светлая</string>
+
+    <string name="lang_title">Язык</string>
+    <string name="font_size_title">Размер шрифта</string>
+
+    <string name="clear_all">Удалить данные</string>
+    <string name="settings">настройки</string>
+
+    <string name="colour">Цвет</string>
+    <string name="colour_red">красный</string>
+    <string name="colour_green">зеленый</string>
+    <string name="colour_blue">синий</string>
+
+</resources>

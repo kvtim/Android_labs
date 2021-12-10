@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#8035D6</color>
+    <color name="teal_700">#480187</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#818181</color>
+
+    <color name="whiteTransparent50">#80FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="gradientGreenStart">#8150B1</color>
+    <color name="gradientGreenStop">#8150B1</color>
+
+    <color name="gradientPinkStart">#DCD666</color>
+    <color name="gradientPinkStop">#DCD666</color>
+
+    <color name="gradientBlueStart">#50B1A9</color>
+    <color name="gradientBlueStop">#50B1A9</color>
+
+    <color name="entryActivity">#A5B55C</color>
+
+    <color name="layoutColor">#FFFFFFFF</color>
+    <color name="mainTextColor">#FF000000</color>
+    <color name="dark">#1F1B24</color>
+</resources>
