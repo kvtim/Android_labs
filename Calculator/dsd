@@ -1,0 +1,29 @@
+[33mcommit 5de18849afb9cd538c32187dd0d5c67f7a57d8fe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Artem Kozlovski <61842660+temakazik@users.noreply.github.com>
+Date:   Mon Nov 29 14:28:45 2021 +0300
+
+    feat: Fixed app
+
+[33mcommit 46e4bb1af1a76de3a2ec7c14a84221fb3f42e1cc[m[33m ([m[1;33mtag: v1.1.0[m[33m)[m
+Author: Artem Kozlovski <61842660+temakazik@users.noreply.github.com>
+Date:   Thu Nov 25 23:30:42 2021 +0300
+
+    chore(release): 1.1.0
+
+[33mcommit 1a74f432e6c7f860bc317164b751c6a68b8b39d7[m
+Author: Artem Kozlovski <61842660+temakazik@users.noreply.github.com>
+Date:   Thu Nov 25 23:30:18 2021 +0300
+
+    feat: Completed!
+
+[33mcommit 2b1331fb84fbd74152f1c159bdd1c9be23f6d4ef[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Artem Kozlovski <61842660+temakazik@users.noreply.github.com>
+Date:   Thu Nov 25 23:28:15 2021 +0300
+
+    chore(release): 1.0.0
+
+[33mcommit a523f917ca7b0337c00e1332befa49deee048d7e[m
+Author: Artem Kozlovski <61842660+temakazik@users.noreply.github.com>
+Date:   Thu Nov 25 23:20:47 2021 +0300
+
+    Added .gitignore
